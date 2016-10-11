@@ -2,7 +2,7 @@
 ![WebdriverIO](http://www.christian-bromann.com/wdio.png)
 ===========
 # Health Miles
-### Getting Started
+### Getting Started 
 Make sure you have Node installed v4.2.0+ or greater and set the environment variables VIRGIN_EMAIL and VIRGIN_PASSWORD. Additionally for Gmail notificaitons be sure to set the environment variables EMAIL and EMAIL_PASSWORD.
 
 
